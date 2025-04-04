@@ -1,7 +1,9 @@
 package com.wesleybertipaglia;
 
+import com.wesleybertipaglia.views.CurrencyMenu;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        CurrencyMenu.main(args);
     }
 }
