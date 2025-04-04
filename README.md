@@ -1,4 +1,4 @@
-# Currency Converter (Java HTTP Client)
+# Currency Converter
 
 A simple currency converter built in Java using the `java.net.http` package and the [ExchangeRate API](https://www.exchangerate-api.com). This project was created as a learning tool to practice making HTTP requests, handling JSON responses, and building a basic console app in Java.
 
